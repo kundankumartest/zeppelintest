@@ -206,6 +206,5 @@
   "config": {
     "isDashboard": false
   },
-  "info": {},
   "source": "FCN"
 }
